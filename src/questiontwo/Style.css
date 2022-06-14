@@ -1,0 +1,35 @@
+.nav{
+    margin-left: 10px;
+    text-decoration: none;
+}
+.card-title{
+    font-family: cursive;
+    text-align: center;
+    font-size: 20px;
+   
+}
+.card-body1{
+    border:3px solid red;
+    height: 20rem;
+    width:11rem;
+    margin-left: 10rem;
+    border-radius: 5px;
+}
+.card-body2{
+    border:3px solid red;
+    height: 20rem;
+    width:11rem;
+    margin-left: 10rem;
+    border-radius: 5px;
+}
+.images{
+    width:10.65rem;
+    margin-left: 0px;
+    height:10rem;
+    
+}
+.h5{
+    font-size: 1rem;
+    
+    /* margin-left: -2rem; */
+}
