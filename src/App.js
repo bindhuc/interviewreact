@@ -3,6 +3,7 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import Home from './questiontwo/Home'
 import Contact from './questiontwo/Contact'
 import Header from './questiontwo/Header'
+import Child1 from './questiontwo/Child1'
 const App = () => {
   return (
     <div>
@@ -16,6 +17,9 @@ const App = () => {
        </Route>
      </Routes>
      </BrowserRouter>
+     <Home>
+       <Child1/>
+     </Home>
     </div>
   )
 }
